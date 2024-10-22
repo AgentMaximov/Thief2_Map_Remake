@@ -84,8 +84,9 @@ git rm Intermediate/*
 git rm Saved/*
 
 git add .gitignore
-Thief2_MapRemake/Intermediate/CachedAssetRegistry_0.bin
-Thief2_MapRemake/Saved/AutoScreenshot.png
-Thief2_MapRemake/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
-Thief2_MapRemake/Saved/Logs/Thief2_MapRemake.log
-Thief2_MapRemake/Saved/Telemetry/Telemetry.json
+
+
+Thief2_MapRemake/Intermediate/*
+Thief2_MapRemake/Saved/*
+
+
